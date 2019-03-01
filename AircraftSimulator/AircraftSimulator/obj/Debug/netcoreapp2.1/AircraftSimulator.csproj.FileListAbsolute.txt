@@ -1,0 +1,11 @@
+E:\Programming\C# Project\AircraftSimulator\AircraftSimulator\bin\Debug\netcoreapp2.1\AircraftSimulator.deps.json
+E:\Programming\C# Project\AircraftSimulator\AircraftSimulator\bin\Debug\netcoreapp2.1\AircraftSimulator.runtimeconfig.json
+E:\Programming\C# Project\AircraftSimulator\AircraftSimulator\bin\Debug\netcoreapp2.1\AircraftSimulator.runtimeconfig.dev.json
+E:\Programming\C# Project\AircraftSimulator\AircraftSimulator\bin\Debug\netcoreapp2.1\AircraftSimulator.dll
+E:\Programming\C# Project\AircraftSimulator\AircraftSimulator\bin\Debug\netcoreapp2.1\AircraftSimulator.pdb
+E:\Programming\C# Project\AircraftSimulator\AircraftSimulator\obj\Debug\netcoreapp2.1\AircraftSimulator.csprojAssemblyReference.cache
+E:\Programming\C# Project\AircraftSimulator\AircraftSimulator\obj\Debug\netcoreapp2.1\AircraftSimulator.csproj.CoreCompileInputs.cache
+E:\Programming\C# Project\AircraftSimulator\AircraftSimulator\obj\Debug\netcoreapp2.1\AircraftSimulator.AssemblyInfoInputs.cache
+E:\Programming\C# Project\AircraftSimulator\AircraftSimulator\obj\Debug\netcoreapp2.1\AircraftSimulator.AssemblyInfo.cs
+E:\Programming\C# Project\AircraftSimulator\AircraftSimulator\obj\Debug\netcoreapp2.1\AircraftSimulator.dll
+E:\Programming\C# Project\AircraftSimulator\AircraftSimulator\obj\Debug\netcoreapp2.1\AircraftSimulator.pdb
